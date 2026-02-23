@@ -6,16 +6,50 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-MIT-00d4aa?style=for-the-badge)](LICENSE)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
 A professional, dark-themed stock market dashboard that combines real-time market data, technical analysis, multi-stock comparison, and machine learning price forecasting in a single unified interface.
+<table>
+<tr>
 
-[Features](#-features) •
-[Installation](#-installation) •
-[Usage](#-usage) •
-[Tech Stack](#-tech-stack) •
-[Contributing](#-contributing)
+<td align="center" width="16%">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit"><br>
+<b>Streamlit</b><br>
+<sub>UI Framework</sub>
+</td>
+
+<td align="center" width="16%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"><br>
+<b>Pandas</b><br>
+<sub>Data Processing</sub>
+</td>
+
+<td align="center" width="16%">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg" width="48" height="48" alt="Plotly"><br>
+<b>Plotly</b><br>
+<sub>Visualization</sub>
+</td>
+
+<td align="center" width="16%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn"><br>
+<b>scikit-learn</b><br>
+<sub>Machine Learning</sub>
+</td>
+
+<td align="center" width="16%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"><br>
+<b>NumPy</b><br>
+<sub>Computation</sub>
+</td>
+
+<td align="center" width="16%">
+<img src="https://cdn.worldvectorlogo.com/logos/yahoo-3.svg" width="48" height="48" alt="yfinance"><br>
+<b>yfinance</b><br>
+<sub>Market Data</sub>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -66,6 +100,18 @@ A professional, dark-themed stock market dashboard that combines real-time marke
 </table>
 
 ---
+##  Screenshots
+
+### Dashboard
+![Dashboard](assets/overview.png)
+
+### Comparision
+![Comparision](assets/comparision.png)
+
+### Prediction View
+![Prediction](assets/prediction.png)
+
+
 ## Usage
 
 ###  Control Panel
